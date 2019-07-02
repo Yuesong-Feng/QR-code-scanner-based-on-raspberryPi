@@ -4,7 +4,11 @@
 使用前需要打开树莓派的Camera
 
 需要安装的依赖包有：
+
 sudo apt-get install python-imaging
+
 sudo apt-get install zbar-tools
+
 sudo apt-get install qrencode
+
 sudo apt-get install python-pygame
